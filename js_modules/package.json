@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tomtom80/de.klingbeil.webpack.tutorial/issues"
   },
-  "homepage": "https://github.com/tomtom80/de.klingbeil.webpack.tutorial#readme"
+  "homepage": "https://github.com/tomtom80/de.klingbeil.webpack.tutorial#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
 }
